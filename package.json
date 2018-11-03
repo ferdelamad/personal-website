@@ -1,0 +1,35 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Fernando De La Madrid personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "grunt deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdelamad/personal-website.git"
+  },
+  "keywords": [
+    "fernando",
+    "delamadrid",
+    "de",
+    "la",
+    "madrid",
+    "fernando",
+    "de",
+    "la",
+    "madrid"
+  ],
+  "author": "Fernando De La Madrid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdelamad/personal-website/issues"
+  },
+  "homepage": "https://github.com/ferdelamad/personal-website#readme",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-aws-s3": "^2.0.0"
+  }
+}
