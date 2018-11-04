@@ -4,3 +4,6 @@ aws-keys.json
 ##NPM
 node_modules/
 
+
+##LOCAL
+.DS_Store
